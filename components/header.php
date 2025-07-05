@@ -8,7 +8,8 @@
                             <div class="col-xl-2 col-lg-2">
                                 <div class="logo">
                                     <a href="index.php">
-                                        <span class="bg-primary text-white p-2 font-weight-bold">Navsons</span><span class="bg-dark text-white p-2 "><small class="font-weight-bold text-white">AutoWash</small></span>
+                                        <!-- <span class="bg-primary text-white p-2 font-weight-bold">Navsons</span><span class="bg-dark text-white p-2 "><small class="font-weight-bold text-white">AutoWash</small></span> -->
+                                         <img src="assets/img/logo/dark-logo.png" height="60px" alt="">
                                     </a>
                                 </div>
                             </div>

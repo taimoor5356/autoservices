@@ -2,7 +2,7 @@
 <section class="testimonial-area testimonial-padding fix">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-xl-8 col-lg-8">
+                    <div class="col-xl-12 col-lg-12 col-md-12" style="opacity: 0.9;">
                         <div class="about-caption pb-bottom">
                             <!-- Testimonial Start -->
                             <div class="h1-testimonial-active dot-style">
@@ -45,8 +45,12 @@
                     </div>
                 </div>
             </div>
-            <!-- testimonial-right img -->
-            <div class="testimonial-right-img">
-                <img src="assets/img/gallery/navsons-group-boy-2.png" alt="">
+            <div class="container">
+                <div class="row align-items-center">
+                    <!-- testimonial-right img -->  
+                    <div class="testimonial-right-img">
+                        <img src="assets/img/gallery/navsons-group-boy-2.png" alt="">
+                    </div>
+                </div>
             </div>
         </section>

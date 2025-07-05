@@ -3,13 +3,16 @@
     <div class="footer-wrapper section-bg2">
         <!-- Footer Start-->
         <div class="footer-area footer-padding">
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row justify-content-between">
                     <div class="col-xl-4 col-lg-4 col-md-5 col-sm-7">
                         <div class="single-footer-caption mb-50">
                             <div class="single-footer-caption mb-30">
                                 <!-- logo -->
                                 <div class="footer-logo mb-35">
+                                    
+                                         <img src="assets/img/logo/dark-logo.png" class="mb-2" height="161px" alt="">
+                                         <br>
                                     <a href="index.php">
                                         <span class="bg-primary text-white p-2 font-weight-bold">Navsons</span><span class="bg-dark text-white p-2 "><small class="font-weight-bold text-white">AutoWash</small></span>
                                     </a>
