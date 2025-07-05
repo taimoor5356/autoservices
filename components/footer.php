@@ -1,6 +1,6 @@
 
 <footer>
-    <div class="footer-wrapper section-bg2" data-background="assets/img/gallery/footer-bg.png">
+    <div class="footer-wrapper section-bg2">
         <!-- Footer Start-->
         <div class="footer-area footer-padding">
             <div class="container">
@@ -10,7 +10,9 @@
                             <div class="single-footer-caption mb-30">
                                 <!-- logo -->
                                 <div class="footer-logo mb-35">
-                                    <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                                    <a href="index.php">
+                                        <span class="bg-primary text-white p-2 font-weight-bold">Navsons</span><span class="bg-dark text-white p-2 "><small class="font-weight-bold text-white">AutoWash</small></span>
+                                    </a>
                                 </div>
                                 <div class="footer-tittle">
                                     <div class="footer-pera">
