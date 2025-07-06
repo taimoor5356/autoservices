@@ -13,9 +13,9 @@
                                     
                                          <img src="assets/img/logo/dark-logo.png" class="mb-2" height="161px" alt="">
                                          <br>
-                                    <a href="index.php">
+                                    <!-- <a href="index.php">
                                         <span class="bg-primary text-white p-2 font-weight-bold">Navsons</span><span class="bg-dark text-white p-2 "><small class="font-weight-bold text-white">AutoWash</small></span>
-                                    </a>
+                                    </a> -->
                                 </div>
                                 <div class="footer-tittle">
                                     <div class="footer-pera">
