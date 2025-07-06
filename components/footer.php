@@ -11,7 +11,7 @@
                                 <!-- logo -->
                                 <div class="footer-logo mb-35">
                                     
-                                         <img src="assets/img/logo/dark-logo.png" class="mb-2" height="161px" alt="">
+                                         <img src="assets/img/logo/dark-logo.png" class="mb-2" height="120px" alt="">
                                          <br>
                                     <!-- <a href="index.php">
                                         <span class="bg-primary text-white p-2 font-weight-bold">Navsons</span><span class="bg-dark text-white p-2 "><small class="font-weight-bold text-white">AutoWash</small></span>
