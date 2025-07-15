@@ -16,7 +16,7 @@
     }
     .footer-tittle{
         h4{
-            color: #007AFF;
+            color: #050042;
             font-size: 20px;
             margin-bottom: 40px;
             font-weight: 400;
@@ -30,7 +30,7 @@
                     font-size: 16px;
                     text-decoration: underline transparent;
                     &:hover{
-                        color: #007AFF;
+                        color: #050042;
                         text-decoration: underline;
                     }
                    
@@ -141,7 +141,7 @@
 
         &:hover{
             color: #fff;
-            background: #007AFF;
+            background: #050042;
             i{
                 transform: rotateY(180deg);
                 -webkit-transform: rotateY(180deg);
@@ -155,7 +155,7 @@
 }
 .number a {
 	font-size: 26px !important;
-	color:#007AFF !important;
+	color:#050042 !important;
 	margin-bottom: 0px;
     display: block;
     @media #{$md}{
@@ -164,7 +164,7 @@
 }
 .number2 a {
 	font-size: 14px !important;
-	color: #007AFF !important;
+	color: #050042 !important;
 	margin-bottom: 23px;
     display: block;
     @media #{$md}{

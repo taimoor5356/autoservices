@@ -45,6 +45,42 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-10">
+                        <div class="single-card text-center mb-30">
+                            <div class="card-top">
+                                <img src="assets/img/icon/price1.svg" alt="">
+                                <h4>Interior Wash & Full Service</h4>
+                                <p>Starting from</p>
+                            </div>
+                            <div class="card-bottom">
+                                <h1 class="font-weight-bold">PKR 1950</h1>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-10">
+                        <div class="single-card text-center mb-30">
+                            <div class="card-top">
+                                <img src="assets/img/icon/price1.svg" alt="">
+                                <h4>General Service</h4>
+                                <p>Starting from</p>
+                            </div>
+                            <div class="card-bottom">
+                                <h1 class="font-weight-bold">PKR 3950</h1>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-10">
+                        <div class="single-card text-center mb-30">
+                            <div class="card-top">
+                                <img src="assets/img/icon/price1.svg" alt="">
+                                <h4>Full Detailing</h4>
+                                <p>Starting from</p>
+                            </div>
+                            <div class="card-bottom">
+                                <h1 class="font-weight-bold">PKR 4450</h1>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>

@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/dark-logo.png">
 
     <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -27,45 +27,47 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-<body class="full-wrapper">
-    <!-- ? Preloader Start -->
-    <div id="preloader-active">
-        <div class="preloader d-flex align-items-center justify-content-center">
-            <div class="preloader-inner position-relative">
-                <div class="preloader-circle"></div>
-                <div class="preloader-img pere-text">
-                    <img src="assets/img/logo/loder.png" alt="">
+<body>
+    <div class="full-wrapper mb-5">
+        <!-- ? Preloader Start -->
+        <div id="preloader-active">
+            <div class="preloader d-flex align-items-center justify-content-center">
+                <div class="preloader-inner position-relative">
+                    <div class="preloader-circle"></div>
+                    <div class="preloader-img pere-text">
+                        <img src="assets/img/logo/loder.png" alt="">
+                    </div>
                 </div>
             </div>
         </div>
+        <!-- Preloader Start -->
+        <header>
+            <!-- Header Start -->
+            <?php include('components/header.php'); ?>
+            <!-- Header End -->
+        </header>
+        <main class="mb-5">
+            <!-- slider Area Start-->
+            <?php include('components/hero_section.php'); ?>
+            <!-- slider Area End-->
+            <!--? Office environment  Start-->
+            <?php include('components/latest_equipment.php'); ?>
+            <!-- Office environment  End-->
+            <!--? Pricing Card Start -->
+            <?php include('components/pricing.php'); ?>
+            <!-- Pricing Card End -->
+            <!--? Testimonial Area Start -->
+            <?php include('components/testimonial.php'); ?>
+            <!--? Testimonial Area End -->
+            <!--? Services Area Start -->
+            <?php include('components/why_take_our_services.php'); ?>
+            <!--? Services Area End -->
+            <!--? video_start -->
+            <?php include('components/video.php'); ?>
+            <!-- video_end -->
+            <?php include('components/map.php'); ?>
+        </main>
     </div>
-    <!-- Preloader Start -->
-    <header>
-        <!-- Header Start -->
-        <?php include('components/header.php'); ?>
-        <!-- Header End -->
-    </header>
-    <main>
-        <!-- slider Area Start-->
-        <?php include('components/hero_section.php'); ?>
-        <!-- slider Area End-->
-        <!--? Office environment  Start-->
-        <?php include('components/latest_equipment.php'); ?>
-        <!-- Office environment  End-->
-        <!--? Pricing Card Start -->
-        <?php include('components/pricing.php'); ?>
-        <!-- Pricing Card End -->
-        <!--? Testimonial Area Start -->
-        <?php include('components/testimonial.php'); ?>
-        <!--? Testimonial Area End -->
-        <!--? Services Area Start -->
-        <?php include('components/why_take_our_services.php'); ?>
-        <!--? Services Area End -->
-        <!--? video_start -->
-        <?php include('components/video.php'); ?>
-        <!-- video_end -->
-        <?php include('components/map.php'); ?>
-    </main>
     <?php
         include('components/footer.php');
     ?>

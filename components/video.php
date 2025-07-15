@@ -6,7 +6,7 @@
                         <div class="video-wrap">
                             <!-- Video icon -->
                             <div class="video-icon">
-                                <a class="popup-video btn-icon" href="https://www.youtube.com/@navsonsgroup"><i class="fas fa-play"></i></a>
+                                <a class="popup-video btn-icon" target="_blank" href="https://www.youtube.com/@navsonsgroup"><i class="fas fa-play"></i></a>
                             </div>
                         </div>
                         <div class="section-tittle section-tittle2 mb-90">
